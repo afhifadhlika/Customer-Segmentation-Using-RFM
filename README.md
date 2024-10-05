@@ -1,4 +1,5 @@
-#Segmentation of Potential and Churn-Risk Customer Using Recency, Frequency, and Monetary Analysis on Superstore Data
+# Segmentation of Potential and Churn-Risk Customer Using Recency, Frequency, and Monetary Analysis on Superstore Data 
+
 This project focuses on segmenting potential customers and churn-risk customers using Recency, Frequency, and Monetary (RFM) analysis on Superstore data. By grouping customers based on Demographics and behavior, measuring overall customer value (CLV) and evaluating average transaction value (AOV), the project aims to identify opportunities and develop more effective marketing and retention strategies to increase profit. Analysis will be conducted using tools like Google Spreadsheet, Google Collab and Tableau to provide targeted, data-driven insights
 
 ---
