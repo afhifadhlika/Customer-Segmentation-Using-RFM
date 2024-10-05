@@ -1,17 +1,5 @@
 # Segmentation of Potential and Churn-Risk Customer Using Recency, Frequency, and Monetary Analysis on Superstore Data 
 
-
-**Project Background** : 
-
-This project involves analyzing Superstore data to segment customers into potential and churn-risk categories using Recency, Frequency, and Monetary (RFM) metrics. The goal is to enhance marketing strategies and customer retention by understanding customer behavior and value. By examining purchasing patterns and calculating metrics such as Customer Lifetime Value (CLV) and Average Order Value (AOV), the project aims to provide actionable insights for more targeted, effective marketing efforts and increase profit
-
-**Key Questions** : 
-1. How can we effectively segment customers to tailor marketing strategies and improve engagement?
-2. What is the total value of customers over their lifetime, and how should this influence investment in customer acquisition and retention?
-3. What is the average transaction value, and how can pricing and promotions be optimized to increase it?
-4. How can we identify and prioritize potential customers versus those at risk of churning?
-5. What behavioral patterns can be used to develop more effective marketing, retention and increase profit strategies?
-
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,6 +16,17 @@ This project involves analyzing Superstore data to segment customers into potent
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GITHUB ACTIONS](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+**Project Background** : 
+
+This project involves analyzing Superstore data to segment customers into potential and churn-risk categories using Recency, Frequency, and Monetary (RFM) metrics. The goal is to enhance marketing strategies and customer retention by understanding customer behavior and value. By examining purchasing patterns and calculating metrics such as Customer Lifetime Value (CLV) and Average Order Value (AOV), the project aims to provide actionable insights for more targeted, effective marketing efforts and increase profit
+
+**Key Questions** : 
+1. How can we effectively segment customers to tailor marketing strategies and improve engagement?
+2. What is the total value of customers over their lifetime, and how should this influence investment in customer acquisition and retention?
+3. What is the average transaction value, and how can pricing and promotions be optimized to increase it?
+4. How can we identify and prioritize potential customers versus those at risk of churning?
+5. What behavioral patterns can be used to develop more effective marketing, retention and increase profit strategies?
 
 ---
 
