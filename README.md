@@ -28,9 +28,6 @@ This project involves analyzing Superstore data to segment customers into potent
 4. How can we identify and prioritize potential customers versus those at risk of churning?
 5. What behavioral patterns can be used to develop more effective marketing, retention and increase profit strategies?
 
----
-
-
 ## Digital Asset
 
 ### [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
