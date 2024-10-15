@@ -73,10 +73,9 @@ With growing demands and cut-throat competitions in the market, a Superstore Gia
 
 **Slide Of Presentation** : 
 
-1. About me
-2. Project background
-3. Overview
-4. Data Understanding
-5. Data Analysis
-6. Visualization and Dashboard
-7. Recommendations and Actionable insight
+1. Project background
+2. Overview
+3. Data Understanding
+4. Data Analysis
+5. Visualization and Dashboard
+6. Recommendations and Actionable insight
